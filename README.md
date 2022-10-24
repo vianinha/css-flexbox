@@ -2,4 +2,4 @@
 
 ## An exercise to pratice CSS FlexBox concepts.
 
- [Flex Frog](https://flexboxfroggy.com/)
+ [Flex Froggy](https://flexboxfroggy.com/)
